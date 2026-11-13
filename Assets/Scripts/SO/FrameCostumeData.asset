@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db887c37f2da6f74dbc3697f968b2ec2, type: 3}
+  m_Name: FrameCostumeData
+  m_EditorClassIdentifier: Assembly-CSharp::CostumeDataSO
+  time: 7
+  mesh: {fileID: -6296310489346440154, guid: 85bb4906c7275ff408ce50e41ece7a67, type: 3}
+  material:
+  - {fileID: -280522992151310538, guid: 85bb4906c7275ff408ce50e41ece7a67, type: 3}
+  escala: {x: 3, y: 3, z: 3}
+  rotation: {x: 0, y: 0, z: 0, w: 1}
+  costumeIcon: {fileID: 21300000, guid: 8d42dc6fc9d38f7448e92990a0548b01, type: 3}
+  height: 0
+  radius: 0
+  position: {x: 0, y: 0, z: 0}
+  costumeLogicName: FrameCostumeLogic
+  mask:
+    serializedVersion: 2
+    m_Bits: 1
+  cd: 15

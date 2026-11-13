@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db887c37f2da6f74dbc3697f968b2ec2, type: 3}
+  m_Name: ChairCostumeData
+  m_EditorClassIdentifier: Assembly-CSharp::CostumeDataSO
+  time: 6
+  mesh: {fileID: -8641035408864883848, guid: 980e33099561db446a3510fd83a12f81, type: 3}
+  material:
+  - {fileID: 2100000, guid: bc21ba63b17a37743b40abbe91e80b9f, type: 2}
+  escala: {x: 2.5, y: 2.5, z: 2.5}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  costumeIcon: {fileID: 21300000, guid: d516af09971bdbe49bd922f57da4ee05, type: 3}
+  height: 2.5
+  radius: 0.5
+  position: {x: 0, y: -1.2, z: 0}
+  costumeLogicName: ChairCostumeLogic
+  mask:
+    serializedVersion: 2
+    m_Bits: 512
+  cd: 10

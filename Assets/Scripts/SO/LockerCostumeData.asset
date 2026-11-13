@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db887c37f2da6f74dbc3697f968b2ec2, type: 3}
+  m_Name: LockerCostumeData
+  m_EditorClassIdentifier: Assembly-CSharp::CostumeDataSO
+  time: 8
+  mesh: {fileID: -5597002278806442958, guid: e64300fae4ba0c14897a60836c213f3c, type: 3}
+  material:
+  - {fileID: 2100000, guid: f9f486f05440f0d4481a13e2b6f58519, type: 2}
+  escala: {x: 0.4, y: 0.4, z: 0.4}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  costumeIcon: {fileID: 21300000, guid: c522004f1d9566444aae09321f8e8300, type: 3}
+  height: 4.5
+  radius: 0.5
+  position: {x: 0, y: 0, z: 0}
+  costumeLogicName: LockerCostumeLogic
+  mask:
+    serializedVersion: 2
+    m_Bits: 1024
+  cd: 10
